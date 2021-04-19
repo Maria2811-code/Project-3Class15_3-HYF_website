@@ -4,12 +4,12 @@ This is a web site recreated from the home page [Hack Your Future](https://hacky
 
 ## Group 4 members
 
-- [Walter Alvarado](https://github.com/WalterAlvar)
-- [Rosa Moran](https://github.com/RosaMoran)
 - [Hajir Pro](https://github.com/Hajir-pro)
 - [Maria Povoroznyuk](https://github.com/Maria2811-code)
+- [Rosa Moran](https://github.com/RosaMoran)
 - [Osime Francis Pagina ](https://github.com/Osimef849)
 - [Serkan Demir](https://github.com/SerkanDemir86)
+- [Walter Alvarado](https://github.com/WalterAlvar)
 
 ## Coach
 
@@ -25,10 +25,7 @@ This is a web site recreated from the home page [Hack Your Future](https://hacky
 
 ## Backlog
 
-
 ## Development strategy creation
-
-> Assigned to **Saban Yelkenci**
 
 1. Write a development strategy
 1. Translate the strategy into issues
