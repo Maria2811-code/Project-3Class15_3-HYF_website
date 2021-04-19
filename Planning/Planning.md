@@ -29,7 +29,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 | Monday    | 19:30 - 23:00| 09:00 - 12:00 | after 10:00 |  after 10:00     | after 10:00  |     after 10:00      |
 | Tuesday   |   19:30 - 23:00 | 09:00 - 20:00 | after 14:00 |  16:00- 20:55     |        |                     |
 | Wednesday | 19:30 - 23:00 | 09:00 - 20:00 | after 10:00 |  |  18:00- 20:55    |                     |
-| Thursday  |   19:30 - 23:00  | 09:00 - 11:00 |    busy     | 16:00- 20:55     |   |                     |
+| Thursday  |   19:30 - 23:00  | 09:00 - 11:00 |    busy     | 16:00- 20:55     |         |                     |
 | Friday    |  19:30 - 23:00   |   9:00 -12:00   |    busy     | 16:00 - 20:55    |        |                     |
 | Saturday  | 19:30 - 23:00    |       09:00 - 10:00     |       Busy             |                    |                      |
 
