@@ -26,11 +26,12 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 | Day       |    Rosa     |    Walter    |    Maria     |    Serkan     |        Francis         |    Hajer  |
 | --------- | :---------: | :---------: | :---------: | :---------: | :-----------------: | :------------------ |
-| Monday    | 19:30 - 23:00| after 12:00 | after 10:00 |      | between 12:00-14:00 |                     |
-| Tuesday   |   all day   | after 15:00 | after 14:00 |      |     after 18:00     |                     |
-| Wednesday | after 13:00 | after 12:00 | after 10:00 |  |     after 18:00     |                     |
-| Thursday  |   all day   | after 12:00 |    busy     |    | between 12:00-14:00 |                     |
-| Friday    |   all day   |   all day   |    busy     |    |     after 18:00     |                     |
+| Monday    | 19:30 - 23:00| 09:00 - 12:00 | after 10:00 |      | between 12:00-14:00 |                     |
+| Tuesday   |   19:30 - 23:00 | 09:00 - 20:00 | after 14:00 |      |     after 18:00     |                     |
+| Wednesday | 19:30 - 23:00 | 09:00 - 20:00 | after 10:00 |  |     after 18:00     |                     |
+| Thursday  |   19:30 - 23:00  | 09:00 - 11:00 |    busy     |    | between 12:00-14:00 |                     |
+| Friday    |  19:30 - 23:00   |   9:00 -12:00   |    busy     |    |     after 18:00     |                     |
+| Saturday  | 19:30 - 23:00    |       09:00 - 10:00     |                    |                    |                      |
 
 ### How many hours everyone has per day:
 
