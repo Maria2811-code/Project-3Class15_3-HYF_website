@@ -2,10 +2,30 @@ body {
   background-color: #eee;
   font-family: 'Work Sans', sans-serif;
   font-family: 'Space Mono', monospace;
+  box-sizing: border-box;
+}
+/* We can set all our Titles with h2, thus, everyone of titles have same font and color */
+h2 {
+  font-family: 'Work Sans', sans-serif;
+  color:#1c2294;
 }
 
-div[class^="title"] {
-  font-family: 'Work Sans', sans-serif;
+.left {
+  width: 40%;
+  float: left;
+  padding: 15px;
+}
+
+.right {
+  width: 40%;
+  float: right;
+  padding: 5px 15px;
+}
+
+/* We can set all our highlighted text, thus every "highlighted text" have same font and color */
+.highlight {
+  color:#1c2294;
+  font-weight: 600;
 }
 
 /*
