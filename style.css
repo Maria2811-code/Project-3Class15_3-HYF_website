@@ -29,14 +29,6 @@ h2 {
 }
 
 /*navbar */
-
-* {
-  padding: 0;
-  margin: 0;
-  text-decoration: none;
-  list-style: none;
-  box-sizing: border-box;
-}
 nav {
   background: white;
   height: 80px;
@@ -177,7 +169,7 @@ nav ul li a{
       font-weight: 700;
       text-align: center;
       font-weight: 400;
-      color: rgb(255, 255, 255);
+      color: rgb(216, 209, 209);
       display: block;
       line-height: 120%;
       margin-bottom: 20px;
