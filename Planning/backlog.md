@@ -1,3 +1,4 @@
+#
 
 What the visitor/user of the website will get.
 
@@ -7,7 +8,9 @@ are necessary for basic usability:
 
 - **basic functionality**: see a logo, company name, company description, request for service, and footer with social media links
 
-## Should-Haves
+## Should-Have
+
+we are just testing the basic should haves for this website prj
 
 will complete the user experience, but are not necessary:
 
