@@ -1,9 +1,23 @@
-body {
+.containerOurProgram{
   background-color: #eee;
   font-family: "Work Sans", sans-serif;
   font-family: "Space Mono", monospace;
   box-sizing: border-box;
 }
+.TextOurImpact{
+  background-color: #eee;
+  font-family: "Work Sans", sans-serif;
+  font-family: "Space Mono", monospace;
+  box-sizing: border-box;
+}
+.Box_impact_numbers{
+  background-color: #eee;
+  font-family: "Work Sans", sans-serif;
+  font-family: "Space Mono", monospace;
+  box-sizing: border-box;
+}
+
+
 /* We can set all our Titles with h2, thus, everyone of titles have same font and color */
 h2 {
   font-family: "Work Sans", sans-serif;
@@ -86,15 +100,17 @@ a:hover {
 #check{
   display: none;
 }
-@media (max-width: 952px){
+@media (max-width: 932px){
 label.logo{
-  font-size: 30px;
-  padding-left: 50px;
+  font-size: 20px;
+  padding-left: 40px;
 }
+}
+
 nav ul li a{
   font-size: 16px;
 }
-}
+
 @media (max-width: 952px){
   .checkbtn{
     display: block;
@@ -124,18 +140,18 @@ nav ul li a{
     float: left;
   }
 
-  .button {
+  button{
     display: inline-flex;
-    font-size: 12px;
+    font-size: 13px;
     line-height: 160%;
     text-decoration: none;
     background-color: rgb(74, 80, 187);
     color: white;
     font-weight: 600;
-    border: 1px solid transparent;
+    border: 5px solid transparent;
     border-radius: 4px;
     box-sizing: border-box;
-    padding: 10px 20px;
+    padding: 20px 20px;
     cursor: pointer;
     text-transform: uppercase;
     -webkit-box-align: center;
@@ -145,8 +161,8 @@ nav ul li a{
     /* Banner */
 
 
-    .banner{
-      background:url("Foto.jpg");
+    #banner{
+      background:url("/");
       height: 70vh;
       width: 100%;
       background-position: center;
@@ -154,7 +170,7 @@ nav ul li a{
       background-size: cover;
       position: relative;
     }
-    .banner-content{
+    .banner-container{
       text-align: center;
       position: absolute;
       width: 100%;
@@ -162,10 +178,12 @@ nav ul li a{
       height: auto;
       margin-top: 200px;
       padding: 170px;
+      display: flex;
+      font-family: "Work Sans", sans-serif;
     }
-    .banner-content h1{
+    .banner-content{
       font-size: 64px;
-      font-family: "Sans-serif", sans-serif;
+      font-family: "Work Sans", sans-serif;
       font-weight: 700;
       text-align: center;
       font-weight: 400;
@@ -173,14 +191,14 @@ nav ul li a{
       display: block;
       line-height: 120%;
       margin-bottom: 20px;
-      text-transform: uppercase;
+      text-transform: uppercase;   
 
     }
     @media only screen and (max-width: 540px) {
       .banner-container{
         margin-top: 150px;
       }
-      .banner-content h1{
+      .banner-content{
         font-size: 64px;
       }
       
