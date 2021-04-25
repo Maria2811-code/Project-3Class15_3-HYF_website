@@ -1,6 +1,10 @@
 
 What the visitor/user of the website will get.
 
+This are our User Stories done in the planning board:
+https://github.com/Maria2811-code/Project-3Class15_3-HYF_website/projects/4
+
+
 ## Must-Haves
 
 are necessary for basic usability:
