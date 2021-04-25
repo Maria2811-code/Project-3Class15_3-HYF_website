@@ -161,14 +161,15 @@ nav ul li a{
     /* Banner */
 
 
-    #banner{
-      background:url("/");
+    banner {
+      background:url("/home/hyf/Project-3Class15_3-HYF_website/Foto.jpg");
       height: 70vh;
       width: 100%;
       background-position: center;
       background-repeat: no-repeat;
       background-size: cover;
       position: relative;
+    
     }
     .banner-container{
       text-align: center;
