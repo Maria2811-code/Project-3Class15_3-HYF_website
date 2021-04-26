@@ -24,18 +24,6 @@ h2 {
   color: #1c2294;
 }
 
-.left {
-  width: 40%;
-  float: left;
-  padding: 15px;
-}
-
-.right {
-  width: 40%;
-  float: right;
-  padding: 5px 15px;
-}
-
 /* We can set all our highlighted text, thus every "highlighted text" have same font and color */
 .highlight {
   color: #1c2294;
@@ -111,8 +99,8 @@ nav ul li a{
   font-size: 16px;
 }
 
-@media (max-width: 952px){
-  .checkbtn{
+
+.checkbtn{
     display: block;
   }
   ul{
@@ -156,7 +144,7 @@ nav ul li a{
     text-transform: uppercase;
     -webkit-box-align: center;
     align-items: center;
-  
+  }
 
     /* Banner */
 
@@ -193,14 +181,20 @@ nav ul li a{
       line-height: 120%;
       margin-bottom: 20px;
       text-transform: uppercase;   
+    }
 
-    }
-    @media only screen and (max-width: 540px) {
-      .banner-container{
-        margin-top: 150px;
-      }
-      .banner-content{
-        font-size: 64px;
-      }
-      
-    }
+
+/* -- Our Program -- */
+
+.containerOurProgram {
+  display: grid;
+  grid-template-columns: 400px 200px
+}
+
+.left {
+
+}
+
+.right {
+ 
+}
