@@ -223,16 +223,6 @@ h3 {
 
 .ImpactText1 {
   color: white;
-<<<<<<< HEAD
-    text-align: left;
-    max-width: none;
-    line-height: 160%;
-    font-size: 16px;
-    font-family: "Space Mono", monospace;
-    margin: 0px;
-    white-space: pre-wrap;
-    word-break: break-word;
-    font-weight: 300;
 }
 
 
@@ -362,15 +352,4 @@ h3 {
     align-items: center;
     font-family: "Work Sans", sans-serif;
 }
-=======
-  text-align: left;
-  max-width: none;
-  line-height: 160%;
-  font-size: 16px;
-  font-family: "Space Mono", monospace;
-  margin: 0px;
-  white-space: pre-wrap;
-  word-break: break-word;
-  font-weight: 300;
-}
->>>>>>> added banner en navb
+
