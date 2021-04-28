@@ -88,12 +88,6 @@ h2 {
   flex-direction: row;
 }
 
-nav ul {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-}
-
 .nvb {
   display: inline-flex;
   -webkit-box-align: center;
@@ -134,7 +128,8 @@ nav ul {
   pad: 50px 20px;
   position: relative;
   box-shadow: none;
-  background: url(https://maria2811-code.github.io/Project-3Class15_3-HYF_website/Assets/banner.jpg) center center no-repeat transparent;
+  background: url(https://maria2811-code.github.io/Project-3Class15_3-HYF_website/Assets/banner.jpg)
+    center center no-repeat transparent;
   z-index: 1;
   flex: 0 0 auto;
 }
@@ -226,69 +221,29 @@ h3 {
   color: white;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /* Your New Career */
 .ContainerProgram {
   display: flex;
-    flex: 1 0 auto;
-    flex-direction: column;
-    margin: 0px auto;
-    -webkit-box-flex: 1;
-    width: 100%;
-    box-sizing: border-box;
-    font-family: "Space Mono", monospace;
+  flex: 1 0 auto;
+  flex-direction: column;
+  margin: 0px auto;
+  -webkit-box-flex: 1;
+  width: 100%;
+  box-sizing: border-box;
+  font-family: "Space Mono", monospace;
 }
 
 .NewCareer {
   display: flex;
-    -webkit-box-pack: center;
-    justify-content: center;
-    width: 100%;
-    padding: 50px 20px;
-    position: relative;
-    box-shadow: none;
-    background: none;
-    z-index: 1;
-    flex: 0 0 auto;
+  -webkit-box-pack: center;
+  justify-content: center;
+  width: 100%;
+  padding: 50px 20px;
+  position: relative;
+  box-shadow: none;
+  background: none;
+  z-index: 1;
+  flex: 0 0 auto;
 }
 
 .containerNewCareer {
@@ -306,27 +261,27 @@ h3 {
 
 .leftNewCareer {
   display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    width: 100%;
-    z-index: 2;
-    max-width: 45%;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 100%;
+  z-index: 2;
+  max-width: 45%;
 }
 
 .rightNewCareer {
   position: absolute;
-    top: 0px;
-    right: 0px;
-    width: 50%;
-    height: 100%;
-    z-index: 1;
+  top: 0px;
+  right: 0px;
+  width: 50%;
+  height: 100%;
+  z-index: 1;
 }
 
 .photoNewCareer {
   width: 100%;
-    height: 100%;
-    object-fit: cover;
-    border-radius: 0px;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 0px;
 }
 
 .LinkNewCareer {
@@ -337,115 +292,19 @@ h3 {
 
 .buttonApply {
   display: inline-flex;
-    font-size: 12px;
-    line-height: 160%;
-    text-decoration: none;
-    background-color: rgb(74, 80, 187);
-    color: white;
-    font-weight: 600;
-    border: 1px solid transparent;
-    border-radius: 4px;
-    box-sizing: border-box;
-    padding: 10px 20px;
-    cursor: pointer;
-    text-transform: uppercase;
-    -webkit-box-align: center;
-    align-items: center;
-    font-family: "Work Sans", sans-serif;
-}
-
-/* --- Our Core Values --- */
-
-.OurValues {
-  display: flex;
-  -webkit-box-pack: end;
-  justify-content: flex-end;
-  width: 100%;
-  padding: 50px 0px;
-  position: relative;
-  box-shadow: none;
-  background: none;
-  z-index: 1;
-  flex: 0 0 auto;
-}
-
-.BoxOurValues {
-  display: flex;
-    flex-direction: column;
-    -webkit-box-pack: center;
-    justify-content: center;
-    -webkit-box-align: center;
-    align-items: center;
-    width: 100%;
-    max-width: 1280px;
-    padding: 10px 0px;
-    margin: 0px;
-}
-
-.ContOurValues {
-  display: flex;
-    background-color: rgb(248, 249, 252);
-    padding: 100px;
-    flex-direction: column;
-}
-
-
-.TitleOurValues {
-  font-size: 24px;
-    line-height: 140%;
-    margin-bottom: 20px;
-    text-transform: uppercase;
-    font-family: "Work Sans", sans-serif;
-    font-weight: 700;
-    color: rgb(28, 34, 148);
-    text-align: left;
-    max-width: none;
-}
-
-.IconValues{
-  display: flex;
-    flex-wrap: wrap;
-    -webkit-box-flex: 1;
-    flex-grow: 1;
-    -webkit-box-pack: justify;
-    justify-content: space-between;
-}
-
-.Community {
-  display: flex;
-    width: 40%;
-    flex-direction: column;
-    align-items: flex-start;
-    margin-bottom: 25px;
-}
-
-.ImgIcon {
-  margin-bottom: 20px;
-    min-height: 70px;
-    object-fit: contain;
-}
-
-.TitleIconsValues {
-  font-size: 20px;
-    line-height: 140%;
-    margin-bottom: 20px;
-    text-transform: none;
-    font-family: "Work Sans", sans-serif;
-    font-weight: 700;
-    color: rgb(28, 34, 148);
-    text-align: left;
-    max-width: none;
-}
-
-.TextValues {
-  color: rgb(45, 48, 55);
-    text-align: left;
-    max-width: none;
-    line-height: 160%;
-    font-size: 16px;
-    font-family: "Space Mono", monospace;
-    margin: 0px;
-    white-space: pre-wrap;
-    word-break: break-word;
-    font-weight: 300;
+  font-size: 12px;
+  line-height: 160%;
+  text-decoration: none;
+  background-color: rgb(74, 80, 187);
+  color: white;
+  font-weight: 600;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  box-sizing: border-box;
+  padding: 10px 20px;
+  cursor: pointer;
+  text-transform: uppercase;
+  -webkit-box-align: center;
+  align-items: center;
+  font-family: "Work Sans", sans-serif;
 }
