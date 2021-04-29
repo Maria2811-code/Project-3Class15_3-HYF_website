@@ -297,19 +297,144 @@ h3 {
     font-weight: 300;
 }
 
+           /*My Partners*/
+
+.maincon { width:95%; height:420px; border: 1px solid #dedbdb; padding:5px; margin:10px; float:left; background-color:#fff; }
+
+.secon {  width:100%; height:60px; border: 0px solid #dedbdb; float:left; }
+
+.advcon { width:100%; height:350px; border: 0px solid #dedbdb; float:left; margin-top:3px; }
+
+.newbox { width:200px; height:60px; border: 0px solid #dedbdb; float:left;}
+
+.newboxright { width:200px; height:40px; border: 0px solid #dedbdb; float:right; margin-top:15px;}
+
+.newboxright:hover{ background-color:#e4e1e0; }
+
+.newboxtxt { padding:10px; font-family:sans-serif; font-size:22px; color:#2a2294; font-weight:bolder; text-transform:uppercase; margin:5px; }
+
+.newboxtxtright { padding:10px; font-family:sans-serif; font-size:10px; color:#2a2294; font-weight:bolder; text-transform:uppercase; margin:5px; text-align:center;  }
+
+.logocon { width:170px; height:150px; border: 0px solid #dedbdb; float:left; margin:5px; }
+
+
+               /* END My Partners*/
+
+/* ---- Google Maps  ----*/
+
+.BoxContact {
+  display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    width: 100%;
+    padding: 0px;
+    position: relative;
+    box-shadow: none;
+    background: none;
+    z-index: 1;
+    flex: 0 0 auto;
+}
+
+.BoxContactLeft {
+  display: flex;
+    width: 100%;
+}
+
+.map {
+display: flex;
+    width: 60%;
+    height: 100%;
+    min-height: 400px;
+    padding-left: 60px;
+    background-color: transparent;
+  }
 
 
 
+/* ---- FOOTER starts here ----- */
 
+.BoxFooter {
+  display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    width: 100%;
+    padding: 50px 20px;
+    position: relative;
+    box-shadow: rgb(0 0 0 / 8%) 0px 0px 53px;
+    background: none;
+    z-index: 1;
+    flex: 0 0 auto;
+}
 
+.BoxFooterContain {
+  display: flex;
+    flex-direction: column;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    width: 100%;
+    max-width: 1280px;
+    padding: 10px 0px;
+    margin: 0px auto;
+}
 
+.address {
+  -webkit-box-align: center;
+  align-items: center;
+  box-shadow: none;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  -webkit-box-flex: 0;
+  height: auto;
+  -webkit-box-pack: start;
+  justify-content: flex-start;
+  max-height: none;
+  max-width: none;
+  width: 100%;
+  z-index: 0;
+  position: static;
+  background: none 0% 0% / auto transparent;
+  flex: 0 1 100%;
+  margin: 0px;
+  padding: 0px;
+}
 
+.TextFooter {
+  color: rgb(45, 48, 55);
+  text-align: center;
+  max-width: none;
+  line-height: 160%;
+  font-size: 16px;
+  font-family: "Space Mono", monospace;
+  margin: 0px;
+  white-space: pre-wrap;
+  word-break: break-word;
+  font-weight: 300;
+}
 
-
-
-
-
-
+.favicons {
+  -webkit-box-align: stretch;
+    align-items: normal;
+    box-shadow: none;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    -webkit-box-flex: 0;
+    height: auto;
+    -webkit-box-pack: center;
+    justify-content: center;
+    max-height: none;
+    max-width: none;
+    width: 100%;
+    z-index: 0;
+    position: static;
+    background: none 0% 0% / auto transparent;
+    flex: 0 1 100%;
+    margin: 20px 0px;
+    padding: 0px;
+}
 
 
 
