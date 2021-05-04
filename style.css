@@ -308,3 +308,381 @@ h3 {
   align-items: center;
   font-family: "Work Sans", sans-serif;
 }
+
+/*  VOLUNTEER PART */
+
+.Vsp {
+  display: flex;
+  flex: 1 0 auto;
+  flex-direction: column;
+  margin: 0px auto;
+  -webkit-box-flex: 1;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.Vsc {
+  display: flex;
+  -webkit-box-pack: center;
+  justify-content: center;
+  width: 100%;
+  padding: 50px 20px;
+  position: relative;
+  box-shadow: none;
+  z-index: 1;
+  flex: 0 0 auto;
+}
+
+.pscv {
+  display: flex;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  align-items: center;
+  width: 100%;
+  max-width: 1280px;
+  padding: 10px 0px;
+  margin: 0px auto;
+}
+
+.otmsk {
+  -webkit-box-align: center;
+  align-items: center;
+  box-shadow: none;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  -webkit-box-flex: 0;
+  height: auto;
+  -webkit-box-pack: start;
+  justify-content: flex-start;
+  max-height: none;
+  max-width: none;
+  width: 100%;
+  z-index: 0;
+  position: static;
+  background: none 0% 0% / auto transparent;
+  flex: 0 1 100%;
+  margin: 10px 0px;
+  padding: 0px;
+}
+
+.tvsc {
+  font-size: 36px;
+  line-height: 120%;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  font-family: "Work Sans", sans-serif;
+  font-weight: 700;
+  color: rgb(28, 34, 148);
+  text-align: left;
+  max-width: none;
+}
+
+.tpv0 {
+  color: rgb(45, 48, 55);
+  text-align: center;
+  max-width: 550px;
+  line-height: 160%;
+  font-size: 16px;
+  font-family: "Space Mono", monospace;
+  margin: 0px;
+  white-space: pre-wrap;
+  word-break: break-word;
+  font-weight: 300;
+}
+
+.jac-jam {
+  -webkit-box-align: stretch;
+  align-items: stretch;
+  box-shadow: none;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  -webkit-box-flex: 0;
+  height: auto;
+  -webkit-box-pack: center;
+  justify-content: center;
+  max-height: none;
+  max-width: none;
+  width: 100%;
+  z-index: 0;
+  position: static;
+  background: none 0% 0% / auto transparent;
+  flex: 0 1 100%;
+  margin: 20px 0px 0px;
+  padding: 0px;
+}
+
+.jac {
+  display: inline-flex;
+  font-size: 12px;
+  line-height: 160%;
+  text-decoration: none;
+  background-color: rgb(74, 80, 187);
+  color: white;
+  font-weight: 600;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  box-sizing: border-box;
+  padding: 10px 20px;
+  cursor: pointer;
+  text-transform: uppercase;
+  -webkit-box-align: center;
+  align-items: center;
+  font-family: "Work Sans", sans-serif;
+}
+
+.jam {
+  display: inline-flex;
+  font-size: 12px;
+  line-height: 160%;
+  text-decoration: none;
+  background-color: rgb(74, 80, 187);
+  color: white;
+  font-weight: 600;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  box-sizing: border-box;
+  padding: 10px 20px;
+  cursor: pointer;
+  text-transform: uppercase;
+  -webkit-box-align: center;
+  align-items: center;
+  font-family: "Work Sans", sans-serif;
+}
+/* part of the question en pic */
+
+.wsvh {
+  display: flex;
+  -webkit-box-pack: center;
+  justify-content: center;
+  width: 100%;
+  padding: 50px 20px;
+  position: relative;
+  box-shadow: none;
+  background: rgb(248, 249, 252);
+  z-index: 1;
+  flex: 0 0 auto;
+}
+
+.pwvh {
+  display: flex;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  align-items: center;
+  width: 100%;
+  max-width: 1280px;
+  padding: 10px 0px;
+  margin: 0px auto;
+}
+
+.errm {
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+}
+
+.tpht {
+  -webkit-box-align: stretch;
+  align-items: stretch;
+  box-shadow: none;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  -webkit-box-flex: 0;
+  height: auto;
+  -webkit-box-pack: start;
+  justify-content: flex-start;
+  max-height: none;
+  min-width: 300px;
+  max-width: none;
+  width: 60%;
+  z-index: 0;
+  position: static;
+  background: none 0% 0% / auto transparent;
+  flex: 0 1 60%;
+  margin: 0px;
+  padding: 0px;
+}
+
+.thhf {
+  font-size: 24px;
+  line-height: 140%;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  font-family: "Work Sans", sans-serif;
+  font-weight: 700;
+  color: rgb(28, 34, 148);
+  text-align: left;
+  max-width: 300px;
+}
+.rsp {
+  display: flex;
+  -webkit-box-flex: 1;
+  flex-grow: 1;
+  flex-wrap: wrap;
+}
+
+.trsp {
+  display: flex;
+  width: 50%;
+  padding: 20px;
+}
+
+.trsp > div {
+  width: 100px;
+  min-width: 100px;
+  max-width: 100px;
+}
+.cnnt {
+  width: auto;
+  height: auto;
+  object-fit: contain;
+  border-radius: 0px;
+}
+
+.txxx {
+  color: rgb(45, 48, 55);
+  text-align: left;
+  max-width: none;
+  line-height: 160%;
+  font-size: 16px;
+  font-family: "Space Mono", monospace;
+  margin: 0px;
+  white-space: pre-wrap;
+  word-break: break-word;
+  font-weight: 300;
+}
+
+.txxx > b {
+  display: inline;
+  color: rgb(74, 80, 187);
+  font-weight: bold;
+  font-family: "Space Mono", monospace;
+}
+
+.bbrt {
+  display: flex;
+  width: 50%;
+  padding: 20px;
+}
+
+.bbrt > div {
+  width: 100px;
+  min-width: 100px;
+  max-width: 100px;
+}
+.knlg {
+  width: auto;
+  height: auto;
+  object-fit: contain;
+  border-radius: 0px;
+}
+
+.tccr {
+  color: rgb(45, 48, 55);
+  text-align: left;
+  max-width: none;
+  line-height: 160%;
+  font-size: 16px;
+  font-family: "Space Mono", monospace;
+  margin: 0px;
+  white-space: pre-wrap;
+  word-break: break-word;
+  font-weight: 300;
+}
+.p {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+
+.tccr > b {
+  display: inline;
+  color: rgb(74, 80, 187);
+  font-weight: bold;
+  font-family: "Space Mono", monospace;
+}
+
+.wtwt {
+  display: flex;
+  width: 50%;
+  padding: 20px;
+}
+
+.wtwt > div {
+  width: 100px;
+  min-width: 100px;
+  max-width: 100px;
+}
+
+.pcst {
+  width: auto;
+  height: auto;
+  object-fit: contain;
+  border-radius: 0px;
+}
+
+.ctss {
+  color: rgb(45, 48, 55);
+  text-align: left;
+  max-width: none;
+  line-height: 160%;
+  font-size: 16px;
+  font-family: "Space Mono", monospace;
+  margin: 0px;
+  white-space: pre-wrap;
+  word-break: break-word;
+  font-weight: 300;
+}
+.ctss > b {
+  display: inline;
+  color: rgb(74, 80, 187);
+  font-weight: bold;
+  font-family: "Space Mono", monospace;
+}
+
+.plgg {
+  display: flex;
+  width: 50%;
+  padding: 20px;
+}
+
+.plgg > div {
+  width: 100px;
+  min-width: 100px;
+  max-width: 100px;
+}
+
+.cdbrd {
+  width: auto;
+  height: auto;
+  object-fit: contain;
+  border-radius: 0px;
+}
+
+.tbord {
+  color: rgb(45, 48, 55);
+  text-align: left;
+  max-width: none;
+  line-height: 160%;
+  font-size: 16px;
+  font-family: "Space Mono", monospace;
+  margin: 0px;
+  white-space: pre-wrap;
+  word-break: break-word;
+  font-weight: 300;
+}
+
+.tbord > b {
+  display: inline;
+  color: rgb(74, 80, 187);
+  font-weight: bold;
+  font-family: "Space Mono", monospace;
+}
